@@ -57,7 +57,7 @@ The app was build using this specific versions on the dependencies. Different ve
 - AR Foundation v4.1.7
 - ARCore XR Plugin v4.1.7
 - ARKit XR Plugin v4.1.9
-- TextMeshPro 3.0.9
+- TextMeshPro v3.0.9
 
 
 
