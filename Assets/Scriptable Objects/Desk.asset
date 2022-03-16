@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d91056ef3be9847759273b82623f19af, type: 3}
+  m_Name: Desk
+  m_EditorClassIdentifier: 
+  ItemName: Desk
+  ItemImage: {fileID: 21300000, guid: a24ade87f94ce4d5cbc2bee59b565d99, type: 3}
+  price: 200
+  ItemDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  Item3DModel: {fileID: 8726350108942582600, guid: 076e52d636bc6469d8aa6bd2a2eb5d19, type: 3}

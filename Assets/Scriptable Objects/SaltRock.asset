@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d91056ef3be9847759273b82623f19af, type: 3}
+  m_Name: SaltRock
+  m_EditorClassIdentifier: 
+  ItemName: Salt Rock
+  ItemImage: {fileID: 21300000, guid: 44049cb8d7a824c0bb801d7220c6f60f, type: 3}
+  price: 60
+  ItemDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  Item3DModel: {fileID: 2864456814561615014, guid: ad4f26fb0c3ef4dbca3174dd106a4f1a, type: 3}
