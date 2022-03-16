@@ -41,7 +41,7 @@ In this application the user is able to choose between real Scale 3D models and 
 <br/>
 
 <div align="center" style="display:flex; flex-direction:row; justify-content:space-between; width:100%;">
-	<img src="https://im5.ezgif.com/tmp/ezgif-5-321d0ea187.gif" height="25%" width="25%">
+	<img src="Assets/Readme/MainMenuGif.gif" height="25%" width="25%">
 	<img src="https://im5.ezgif.com/tmp/ezgif-5-51281d89f3.gif" height="25%" width="25%">
 	<img src="https://im5.ezgif.com/tmp/ezgif-5-09fedab8e2.gif" height="25%" width="25%">
 </div>
