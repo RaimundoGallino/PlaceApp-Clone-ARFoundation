@@ -16,7 +16,7 @@ A simple but effective event based architecture was applied due to the simplicit
 
 In this application the user is able to choose between real Scale 3D models and position it in the real world. When a item is selected, it can be moved, rotated, toggle its measures, positioned or deleted -This applies to already positioned models or new-.
 
--  **Item generator tool** : generates an scriptable object based on the item characteristics and saves it for the app to use it. Find it at Tools>Item Generator
+-  **Item generator tool** : Generates an scriptable object based on the item characteristics and saves it for the app to use it. Find it at Tools>Item Generator
 <div align="center">
 <img src="https://i.imgur.com/wfaVBS5.png" height="40%" width="40%">
 </div>
