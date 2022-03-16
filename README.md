@@ -23,6 +23,10 @@ In this application the user is able to choose between real Scale 3D models and 
 
 - **Measurement Tool**: Tool that measures de dimensions of the object 
 
+<div align="center">
+<img src="https://i.imgur.com/5xUu3Pg.png" height="40%" width="40%">
+</div>
+
 
 - **Draw bounds component**: Tool that draws bounds and center of the selected object
 <div align="center">
