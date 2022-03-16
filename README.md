@@ -24,7 +24,7 @@ In this application the user is able to choose between real Scale 3D models and 
 - **Measurement Tool**: Tool that measures de dimensions of the object 
 
 <div align="center">
-<img src="https://i.imgur.com/5xUu3Pg.png" height="40%" width="40%">
+<img src="https://i.imgur.com/5xUu3Pg.png" height="50%" width="50%">
 </div>
 
 
